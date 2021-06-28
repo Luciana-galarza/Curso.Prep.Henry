@@ -1,0 +1,31 @@
+h1 {color: #990000;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h3 {font-size: large;
+    text-align: center;
+}
+h4 {font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img {height: 300px;
+    width: 400px;
+}
+#ThirdDiv {height: 600px;
+           width: 500px;
+           background:transparent;
+           padding: 50px;
+           border: 2px solid black;
+           margin:0 auto;
+}
+#SpanId { font-size: 18px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-weight: bold;
+          text-align: justify;
+          margin: 50px;
+        }
+body {background:linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
+}
